@@ -21,7 +21,8 @@
         "pantheon-systems\/drupal-integrations": "^9",
         "cweagans\/composer-patches": "^1.7",
         "drush\/drush": "^11 || ^12",
-        "pantheon-systems/quicksilver-pushback": "dev-hackaton"
+        "pantheon-systems/quicksilver-pushback": "dev-hackaton",
+        "drupal/admin_toolbar": "^3.2.0"
     },
     "require-dev": {
         "drupal\/core-dev": "^9.2",
